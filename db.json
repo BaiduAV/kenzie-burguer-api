@@ -7,5 +7,39 @@
       "age": 38,
       "id": 1
     }
-  ]
+  ],
+  "hamburgers": [{
+    "title": "Kenzie Burger",
+    "price": 14.00,
+    "type": "Sanduíches"
+  },{
+    "title": "X-Kenzie",
+    "price": 16.00,
+    "type": "Sanduíches"
+  },{
+    "title": "Kenzão",
+    "price": 18.00,
+    "type": "Sanduíches"
+  },{
+    "title": "Combo Kenzie",
+    "price": 26.00,
+    "type": "Sanduíches"
+  },{
+    "title": "Coca Cola",
+    "price": 5.00,
+    "type": "Bebidas"
+  },{
+    "title": "Fanta Laranja",
+    "price": 7.00,
+    "type": "Bebidas"
+  },{
+    "title": "KenzieShake Ovomaltine",
+    "price": 10.00,
+    "type": "Sobremesas"
+  },{
+    "title": "KenzieSundae",
+    "price": 10.00,
+    "type": "Sobremesas"
+  }],
+  "cart": []
 }
