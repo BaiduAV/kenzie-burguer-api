@@ -10,19 +10,19 @@
   ],
   "hamburgers": [{
     "title": "Kenzie Burger",
-    "price": 14.00,
+    "price": 15.00,
     "type": "Sanduíches",
-    "img": "blob:https://imgur.com/bf3f0cd6-f8d2-46e9-a312-8d57aee4681f"
+    "img": "https://i.imgur.com/8m0Eb5f.jpeg"
   },{
     "title": "X-Kenzie",
     "price": 16.00,
     "type": "Sanduíches",
-    "img": "blob:https://imgur.com/d2494c33-63bc-4208-b84a-ebf1a7e245bf"
+    "img": "https://i.imgur.com/PsByhpV.jpeg"
   },{
     "title": "Kenzão",
     "price": 18.00,
     "type": "Sanduíches",
-    "img": "blob:https://imgur.com/f2d0571d-4810-463e-b8b1-cb4c006ef639"
+    "img": "https://i.imgur.com/lZnXK6H.jpeg"
   },{
     "title": "Combo Kenzie",
     "price": 26.00,
