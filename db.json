@@ -12,42 +12,42 @@
     "title": "Kenzie Burger",
     "price": 14.00,
     "type": "Sanduíches",
-    "img": "https://drive.google.com/file/d/1HcJEPLkJmMbsZgGyokCU5BFaDzhHrkSd/preview"
+    "img": "blob:https://imgur.com/bf3f0cd6-f8d2-46e9-a312-8d57aee4681f"
   },{
     "title": "X-Kenzie",
     "price": 16.00,
     "type": "Sanduíches",
-    "img": "https://drive.google.com/file/d/1u1rQBM1ZCrWOZt7UB2EfrOevBdamwR5y/preview"
+    "img": "blob:https://imgur.com/d2494c33-63bc-4208-b84a-ebf1a7e245bf"
   },{
     "title": "Kenzão",
     "price": 18.00,
     "type": "Sanduíches",
-    "img": "https://drive.google.com/file/d/1Y6NL1qtO-rZBaq-htU11jakTteLAcHEd/preview"
+    "img": "blob:https://imgur.com/f2d0571d-4810-463e-b8b1-cb4c006ef639"
   },{
     "title": "Combo Kenzie",
     "price": 26.00,
     "type": "Sanduíches",
-    "img": "https://drive.google.com/file/d/1kem4KMQfHQUxGLwoB6JNEtfsNGzVIubX/preview"
+    "img": "https://i.imgur.com/W92a0wt.jpg"
   },{
     "title": "Coca Cola",
     "price": 5.00,
     "type": "Bebidas",
-    "img": "https://drive.google.com/file/d/1cG7Ex1zeTZ9Ijqf960Z065BgqzVkPq4H/preview"
+    "img": "https://i.imgur.com/wUMbeUm.png"
   },{
     "title": "Fanta Laranja",
     "price": 7.00,
     "type": "Bebidas",
-    "img": "https://drive.google.com/file/d/1WtTgAsESNy6EQoeWJVt9XN-XUlVh_pj2/preview"
+    "img": "https://i.imgur.com/mRWRleW.png"
   },{
     "title": "KenzieShake Ovomaltine",
     "price": 10.00,
     "type": "Sobremesas",
-    "img": "https://drive.google.com/file/d/1n6C5tiglvwTlb9nHwNSSG8n0Bcjv0SMC/preview"
+    "img": "https://i.imgur.com/NLlIzEM.png"
   },{
     "title": "KenzieSundae",
     "price": 10.00,
     "type": "Sobremesas",
-    "img": "https://drive.google.com/file/d/1542GXoMsEqVG82OPaekwGWRdbta58EAn/preview"
+    "img": "https://i.imgur.com/fZ4u3M7.png"
   }],
   "cart": []
 }
