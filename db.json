@@ -12,42 +12,42 @@
     "title": "Kenzie Burger",
     "price": 15.00,
     "type": "Sanduíches",
-    "img": "https://i.imgur.com/8m0Eb5f.jpeg"
+    "img": "https://i.ibb.co/dDm8xpG/kenzie-burger-removebg-preview.png"
   },{
     "title": "X-Kenzie",
     "price": 16.00,
     "type": "Sanduíches",
-    "img": "https://i.imgur.com/PsByhpV.jpeg"
+    "img": "https://i.ibb.co/QHCVZLk/x-kenzie-removebg-preview.png"
   },{
     "title": "Kenzão",
     "price": 18.00,
     "type": "Sanduíches",
-    "img": "https://i.imgur.com/lZnXK6H.jpeg"
+    "img": "https://i.ibb.co/S3BPM7f/kenz-o-removebg-preview.png"
   },{
     "title": "Combo Kenzie",
     "price": 26.00,
     "type": "Sanduíches",
-    "img": "https://i.imgur.com/W92a0wt.jpg"
+    "img": "https://i.ibb.co/PNrmDKN/combo-kenzie-removebg-preview.png"
   },{
     "title": "Coca Cola",
     "price": 5.00,
     "type": "Bebidas",
-    "img": "https://i.imgur.com/wUMbeUm.png"
+    "img": "https://i.ibb.co/mRNfnmB/kisspng-coca-cola-fizzy-drinks-wine-glass-coca-cola-5ab4c79d454208-9920282815217970212837-removebg-p.png"
   },{
     "title": "Fanta Laranja",
     "price": 7.00,
     "type": "Bebidas",
-    "img": "https://i.imgur.com/mRWRleW.png"
+    "img": "https://i.ibb.co/rvvTdYM/fanta-laranja.png"
   },{
     "title": "KenzieShake Ovomaltine",
     "price": 10.00,
     "type": "Sobremesas",
-    "img": "https://i.imgur.com/NLlIzEM.png"
+    "img": "https://i.ibb.co/5YDd4MN/mcshake.png"
   },{
     "title": "KenzieSundae",
     "price": 10.00,
     "type": "Sobremesas",
-    "img": "https://i.imgur.com/fZ4u3M7.png"
+    "img": "https://i.ibb.co/RztbZv3/mcsundae.png"
   }],
   "cart": []
 }
